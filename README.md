@@ -4,7 +4,7 @@ How to use:
 
 1) Copy to extensions or widgets, as you wish. Then import it either manually or by adding to main.php config file imports.
 
-    Yii::import('ext.yii-tri-state-checkbox.cbTriStateCheckbox.*');
+    Yii::import('ext.yii-tri-state-checkbox.*');
 
 2) Call it in your views by providing model and attribute:
 
