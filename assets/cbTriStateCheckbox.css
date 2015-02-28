@@ -1,0 +1,7 @@
+/* tri state 
+-----------------------------------*/
+.three_state_cb_link {overflow: hidden; white-space:nowrap; float:none; display:block; padding-left:16px; margin:5px 5px 0px 0px;color:#000; text-decoration:none; background:url(cb_three_state_all.gif) 0px 0px no-repeat}
+.three_state_cb_link a:hover {text-decoration:none}
+.three_state_cb_link-either {background-position:0px 0px}
+.three_state_cb_link-with {background-position:0px -18px}
+.three_state_cb_link-without {background-position:0px -36px}
